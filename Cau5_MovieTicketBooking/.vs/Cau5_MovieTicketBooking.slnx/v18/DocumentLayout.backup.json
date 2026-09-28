@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau5_movieticketbooking\\cau5_movieticketbooking\\formbanve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|solutionrelative:cau5_movieticketbooking\\formbanve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau5_movieticketbooking\\cau5_movieticketbooking\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|solutionrelative:cau5_movieticketbooking\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau5_movieticketbooking\\cau5_movieticketbooking\\formchonghe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|solutionrelative:cau5_movieticketbooking\\formchonghe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau5_movieticketbooking\\cau5_movieticketbooking\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|solutionrelative:cau5_movieticketbooking\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau5_movieticketbooking\\cau5_movieticketbooking\\formbanve.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|solutionrelative:cau5_movieticketbooking\\formbanve.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau5_movieticketbooking\\cau5_movieticketbooking\\formbanve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{976FDD28-5E8D-4771-B6CB-102347C49213}|Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking.csproj|solutionrelative:cau5_movieticketbooking\\formbanve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormChonGhe.Designer.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormChonGhe.Designer.cs",
+              "RelativeDocumentMoniker": "Cau5_MovieTicketBooking\\FormChonGhe.Designer.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormChonGhe.Designer.cs",
+              "RelativeToolTip": "Cau5_MovieTicketBooking\\FormChonGhe.Designer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAkwJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:26:43.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormChonGhe.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormChonGhe.cs",
+              "RelativeDocumentMoniker": "Cau5_MovieTicketBooking\\FormChonGhe.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormChonGhe.cs",
+              "RelativeToolTip": "Cau5_MovieTicketBooking\\FormChonGhe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:26:34.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormChonGhe.cs [Design]",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormChonGhe.cs",
+              "RelativeDocumentMoniker": "Cau5_MovieTicketBooking\\FormChonGhe.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormChonGhe.cs [Design]",
+              "RelativeToolTip": "Cau5_MovieTicketBooking\\FormChonGhe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:26:25.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormBanVe.Designer.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormBanVe.Designer.cs",
+              "RelativeDocumentMoniker": "Cau5_MovieTicketBooking\\FormBanVe.Designer.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormBanVe.Designer.cs",
+              "RelativeToolTip": "Cau5_MovieTicketBooking\\FormBanVe.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAkwLEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:25:55.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBanVe.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormBanVe.cs",
+              "RelativeDocumentMoniker": "Cau5_MovieTicketBooking\\FormBanVe.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormBanVe.cs",
+              "RelativeToolTip": "Cau5_MovieTicketBooking\\FormBanVe.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAgwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:25:35.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBanVe.cs [Design]",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormBanVe.cs",
+              "RelativeDocumentMoniker": "Cau5_MovieTicketBooking\\FormBanVe.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau5_MovieTicketBooking\\Cau5_MovieTicketBooking\\FormBanVe.cs [Design]",
+              "RelativeToolTip": "Cau5_MovieTicketBooking\\FormBanVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:24:15.225Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

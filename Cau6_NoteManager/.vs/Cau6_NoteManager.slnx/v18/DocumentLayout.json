@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau6_notemanager\\cau6_notemanager\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|solutionrelative:cau6_notemanager\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau6_notemanager\\cau6_notemanager\\formchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|solutionrelative:cau6_notemanager\\formchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau6_notemanager\\cau6_notemanager\\formghichu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|solutionrelative:cau6_notemanager\\formghichu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau6_notemanager\\cau6_notemanager\\formghichu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|solutionrelative:cau6_notemanager\\formghichu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau6_notemanager\\cau6_notemanager\\formghichu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|solutionrelative:cau6_notemanager\\formghichu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau6_notemanager\\cau6_notemanager\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C25CC8C-AAD3-4B22-AEAB-452533D921F7}|Cau6_NoteManager\\Cau6_NoteManager.csproj|solutionrelative:cau6_notemanager\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGhiChu.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormGhiChu.cs",
+              "RelativeDocumentMoniker": "Cau6_NoteManager\\FormGhiChu.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormGhiChu.cs",
+              "RelativeToolTip": "Cau6_NoteManager\\FormGhiChu.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAkwBEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:34:59.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormGhiChu.Designer.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormGhiChu.Designer.cs",
+              "RelativeDocumentMoniker": "Cau6_NoteManager\\FormGhiChu.Designer.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormGhiChu.Designer.cs",
+              "RelativeToolTip": "Cau6_NoteManager\\FormGhiChu.Designer.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAkwCoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:33:52.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGhiChu.cs [Design]",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormGhiChu.cs",
+              "RelativeDocumentMoniker": "Cau6_NoteManager\\FormGhiChu.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormGhiChu.cs [Design]",
+              "RelativeToolTip": "Cau6_NoteManager\\FormGhiChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:33:46.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormChinh.Designer.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormChinh.Designer.cs",
+              "RelativeDocumentMoniker": "Cau6_NoteManager\\FormChinh.Designer.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormChinh.Designer.cs",
+              "RelativeToolTip": "Cau6_NoteManager\\FormChinh.Designer.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAkwBgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:32:46.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormChinh.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormChinh.cs",
+              "RelativeDocumentMoniker": "Cau6_NoteManager\\FormChinh.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormChinh.cs",
+              "RelativeToolTip": "Cau6_NoteManager\\FormChinh.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:30:57.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormChinh.cs [Design]",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormChinh.cs",
+              "RelativeDocumentMoniker": "Cau6_NoteManager\\FormChinh.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau6_NoteManager\\Cau6_NoteManager\\FormChinh.cs [Design]",
+              "RelativeToolTip": "Cau6_NoteManager\\FormChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:30:37.743Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

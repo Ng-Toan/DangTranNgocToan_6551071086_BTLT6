@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau4_PhoneBookManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{622A4785-0E37-45A0-939A-AFCBD1C9CCD8}|Cau4_PhoneBookManager\\Cau4_PhoneBookManager.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau4_phonebookmanager\\cau4_phonebookmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622A4785-0E37-45A0-939A-AFCBD1C9CCD8}|Cau4_PhoneBookManager\\Cau4_PhoneBookManager.csproj|solutionrelative:cau4_phonebookmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622A4785-0E37-45A0-939A-AFCBD1C9CCD8}|Cau4_PhoneBookManager\\Cau4_PhoneBookManager.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau4_phonebookmanager\\cau4_phonebookmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622A4785-0E37-45A0-939A-AFCBD1C9CCD8}|Cau4_PhoneBookManager\\Cau4_PhoneBookManager.csproj|solutionrelative:cau4_phonebookmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622A4785-0E37-45A0-939A-AFCBD1C9CCD8}|Cau4_PhoneBookManager\\Cau4_PhoneBookManager.csproj|d:\\utc2\\lap_trinh_truc_quan\\nguyenhuubaokhiem_6551071047_btlt6\\cau4_phonebookmanager\\cau4_phonebookmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622A4785-0E37-45A0-939A-AFCBD1C9CCD8}|Cau4_PhoneBookManager\\Cau4_PhoneBookManager.csproj|solutionrelative:cau4_phonebookmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau4_PhoneBookManager\\Cau4_PhoneBookManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Cau4_PhoneBookManager\\Form1.Designer.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau4_PhoneBookManager\\Cau4_PhoneBookManager\\Form1.Designer.cs",
+              "RelativeToolTip": "Cau4_PhoneBookManager\\Form1.Designer.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAkwDgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:16:07.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau4_PhoneBookManager\\Cau4_PhoneBookManager\\Form1.cs",
+              "RelativeDocumentMoniker": "Cau4_PhoneBookManager\\Form1.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau4_PhoneBookManager\\Cau4_PhoneBookManager\\Form1.cs",
+              "RelativeToolTip": "Cau4_PhoneBookManager\\Form1.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAgwPUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:15:39.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau4_PhoneBookManager\\Cau4_PhoneBookManager\\Form1.cs",
+              "RelativeDocumentMoniker": "Cau4_PhoneBookManager\\Form1.cs",
+              "ToolTip": "D:\\UTC2\\Lap_Trinh_Truc_Quan\\NguyenHuuBaoKhiem_6551071047_BTLT6\\Cau4_PhoneBookManager\\Cau4_PhoneBookManager\\Form1.cs [Design]",
+              "RelativeToolTip": "Cau4_PhoneBookManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:15:24.002Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

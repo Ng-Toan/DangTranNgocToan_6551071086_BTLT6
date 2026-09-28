@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Cau4_PhoneBookManager/1.0.0": {
+        "runtime": {
+          "Cau4_PhoneBookManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cau4_PhoneBookManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
